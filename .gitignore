@@ -1,0 +1,8 @@
+# Fullstack gitignore
+node_modules/
+.env
+.dart_tool/
+build/
+.packages
+android/.gradle/
+*.apk
